@@ -594,8 +594,8 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
@@ -1058,7 +1058,7 @@ a {
 .cid-sFzxmVl7J6 {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/hd-wallpaper-green-spikelets-barley-field-crop-field-ears-800x500.jpg");
 }
 .cid-sFzxmVl7J6 .row {
   flex-direction: row-reverse;
@@ -1085,7 +1085,7 @@ a {
 .cid-sFzxmVl7J6 .mbr-text,
 .cid-sFzxmVl7J6 .mbr-section-btn {
   color: #353535;
-  text-align: right;
+  text-align: center;
 }
 .cid-sFzxmVl7J6 .mbr-section-title {
   text-align: right;
@@ -1093,7 +1093,7 @@ a {
 .cid-sFzz5E692j {
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/background7.jpg");
 }
 @media (max-width: 991px) {
   .cid-sFzz5E692j .image-wrapper {
@@ -1118,10 +1118,17 @@ a {
 .cid-sFzz5E692j .mbr-section-btn {
   text-align: right;
 }
+.cid-sFzz5E692j .mbr-section-title {
+  text-align: right;
+}
 .cid-sFzFvgBfc0 {
   padding-top: 6rem;
   padding-bottom: 4rem;
-  background-color: #fafafa;
+  background-image: url("../../../assets/images/background3.jpg");
+}
+.cid-sFzFvgBfc0 .mbr-overlay {
+  background: #fafafa;
+  opacity: 0.1;
 }
 .cid-sFzFvgBfc0 img,
 .cid-sFzFvgBfc0 .item-img {
@@ -1167,10 +1174,10 @@ a {
 }
 .cid-sFzFvgBfc0 .mbr-text,
 .cid-sFzFvgBfc0 .mbr-section-btn {
-  text-align: left;
+  text-align: right;
 }
 .cid-sFzFvgBfc0 .item-title {
-  text-align: left;
+  text-align: center;
 }
 .cid-sFzFvgBfc0 .item-subtitle {
   text-align: left;
@@ -1178,10 +1185,13 @@ a {
 .cid-sFAZRnJnnI {
   padding-top: 7rem;
   padding-bottom: 7rem;
-  background-color: #ffffff;
+  background-color: #daf2ff;
 }
 .cid-sFAZRnJnnI .mbr-text {
   text-align: right;
+}
+.cid-sFAZRnJnnI .mbr-section-subtitle {
+  text-align: center;
 }
 .cid-sFzErVWEaH {
   padding-top: 6rem;
@@ -1253,7 +1263,7 @@ a {
 .cid-sFAyMcKwph {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-sFAyMcKwph .media-container-row {
   justify-content: space-between;
@@ -1429,7 +1439,7 @@ a {
 .cid-sFzIA7KGYz {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #fafafa;
+  background-image: url("../../../assets/images/barley-field-at-sunset-close-up-summer-light-970x646.jpg");
 }
 .cid-sFzIA7KGYz .image-wrapper {
   display: flex;
@@ -1455,6 +1465,12 @@ a {
   font-size: 2rem;
   padding-right: 1.5rem;
   color: #6592e6;
+}
+.cid-sFzIA7KGYz P {
+  text-align: left;
+}
+.cid-sFzIA7KGYz .card-title {
+  text-align: left;
 }
 .cid-sFAxp7Y5iM {
   padding-top: 0rem;
