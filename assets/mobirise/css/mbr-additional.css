@@ -1058,7 +1058,7 @@ a {
 .cid-sFzxmVl7J6 {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/hd-wallpaper-green-spikelets-barley-field-crop-field-ears-800x500.jpg");
+  background-image: url("../../../assets/images/2hd-wallpaper-green-spikelets-barley-field-crop-field-ears-2000x1249.jpg");
 }
 .cid-sFzxmVl7J6 .row {
   flex-direction: row-reverse;
@@ -1084,11 +1084,12 @@ a {
 }
 .cid-sFzxmVl7J6 .mbr-text,
 .cid-sFzxmVl7J6 .mbr-section-btn {
-  color: #353535;
+  color: #ffffff;
   text-align: center;
 }
 .cid-sFzxmVl7J6 .mbr-section-title {
-  text-align: right;
+  text-align: center;
+  color: #ffffff;
 }
 .cid-sFzz5E692j {
   padding-top: 8rem;
@@ -1152,18 +1153,12 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sFzFvgBfc0 .item-wrapper .item-content {
-    padding: 2rem 2rem 0;
-  }
-  .cid-sFzFvgBfc0 .item-wrapper .item-footer {
-    padding: 0 2rem 2rem;
+    padding: 2rem;
   }
 }
 @media (max-width: 991px) {
   .cid-sFzFvgBfc0 .item-wrapper .item-content {
-    padding: 1rem 1rem 0;
-  }
-  .cid-sFzFvgBfc0 .item-wrapper .item-footer {
-    padding: 0 1rem 1rem;
+    padding: 1rem;
   }
 }
 .cid-sFzFvgBfc0 .mbr-section-btn {
@@ -1180,18 +1175,251 @@ a {
   text-align: center;
 }
 .cid-sFzFvgBfc0 .item-subtitle {
-  text-align: left;
+  text-align: center;
 }
-.cid-sFAZRnJnnI {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
-  background-color: #daf2ff;
+.cid-uYrD2h0BcC {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/background7.jpg");
 }
-.cid-sFAZRnJnnI .mbr-text {
+.cid-uYrD2h0BcC .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uYrD2h0BcC .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-uYrD2h0BcC .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-uYrD2h0BcC .row {
+  flex-direction: row-reverse;
+}
+.cid-uYrD2h0BcC img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-uYrD2h0BcC .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-uYrD2h0BcC .mbr-section-title {
+  text-align: center;
+}
+.cid-uYrD2h0BcC .mbr-text {
   text-align: right;
 }
-.cid-sFAZRnJnnI .mbr-section-subtitle {
+.cid-uYrHu7qGVQ {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background: #fafafa;
+}
+.cid-uYrHu7qGVQ .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uYrHu7qGVQ .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uYrHu7qGVQ .team-card {
+  margin-bottom: 2rem;
+  transition: all 0.3s;
+}
+.cid-uYrHu7qGVQ .team-card:hover {
+  transform: translateY(-10px);
+}
+.cid-uYrHu7qGVQ .card-wrap {
+  background: #ffffff;
+  border-radius: 4px;
+}
+@media (max-width: 991px) {
+  .cid-uYrHu7qGVQ .card-wrap {
+    margin-bottom: 2rem;
+  }
+}
+.cid-uYrHu7qGVQ .card-wrap .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .cid-uYrHu7qGVQ .card-wrap .content-wrap {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uYrHu7qGVQ .card-wrap .content-wrap {
+    padding: 1rem;
+  }
+}
+.cid-uYrHu7qGVQ .social-row {
   text-align: center;
+}
+.cid-uYrHu7qGVQ .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  margin-right: 0.6rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border: 2px solid #6592e6;
+  transition: all 0.3s;
+}
+.cid-uYrHu7qGVQ .social-row .soc-item .mbr-iconfont {
+  transition: all 0.3s;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  color: #6592e6;
+  font-size: 1.5rem;
+}
+.cid-uYrHu7qGVQ .social-row .soc-item:hover {
+  background-color: #6592e6;
+}
+.cid-uYrHu7qGVQ .social-row .soc-item:hover .mbr-iconfont {
+  color: #ffffff;
+}
+.cid-uYrHu7qGVQ .embla__slide {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  min-width: 410px;
+  max-width: 410px;
+}
+@media (max-width: 768px) {
+  .cid-uYrHu7qGVQ .embla__slide {
+    min-width: 70%;
+    max-width: initial;
+    margin-left: 1rem !important;
+    margin-right: 1rem !important;
+  }
+}
+.cid-uYrHu7qGVQ .embla__button--next,
+.cid-uYrHu7qGVQ .embla__button--prev {
+  display: flex;
+}
+.cid-uYrHu7qGVQ .embla__button {
+  top: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -1.5rem;
+  font-size: 22px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 768px) {
+  .cid-uYrHu7qGVQ .embla__button {
+    display: none;
+  }
+}
+.cid-uYrHu7qGVQ .embla__button:disabled {
+  cursor: default;
+  display: none;
+}
+.cid-uYrHu7qGVQ .embla__button:hover {
+  background: #000;
+  color: rgba(255, 255, 255, 0.5);
+}
+.cid-uYrHu7qGVQ .embla__button.embla__button--prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-uYrHu7qGVQ .embla__button.embla__button--next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+@media (max-width: 767px) {
+  .cid-uYrHu7qGVQ .embla__button {
+    top: auto;
+  }
+}
+.cid-uYrHu7qGVQ .embla {
+  position: relative;
+  width: 100%;
+}
+.cid-uYrHu7qGVQ .embla__viewport {
+  overflow: hidden;
+  width: 100%;
+}
+.cid-uYrHu7qGVQ .embla__viewport.is-draggable {
+  cursor: grab;
+}
+.cid-uYrHu7qGVQ .embla__viewport.is-dragging {
+  cursor: grabbing;
+}
+.cid-uYrHu7qGVQ .embla__container {
+  display: flex;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.cid-uYrMQxampT {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/background8.jpg");
+}
+.cid-uYrMQxampT .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uYrMQxampT .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uYrMQxampT .card-wrapper {
+  padding-right: 2rem;
+}
+@media (max-width: 992px) {
+  .cid-uYrMQxampT .card {
+    margin-bottom: 2rem!important;
+  }
+  .cid-uYrMQxampT .card-wrapper {
+    padding: 0 1rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uYrMQxampT .link-wrap {
+    align-items: center;
+  }
+}
+.cid-uYrMQxampT .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-uYrMQxampT .card-title,
+.cid-uYrMQxampT .card-box {
+  text-align: right;
+  color: #ffffff;
+}
+.cid-uYrMQxampT .mbr-text UL {
+  text-align: right;
+}
+.cid-uYrMQxampT .mbr-text,
+.cid-uYrMQxampT .link-wrap,
+.cid-uYrMQxampT .mbr-section-btn {
+  text-align: right;
 }
 .cid-sFzErVWEaH {
   padding-top: 6rem;
@@ -1261,9 +1489,9 @@ a {
   color: #000000;
 }
 .cid-sFAyMcKwph {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/background1.jpg");
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background-color: #ff8a8a;
 }
 .cid-sFAyMcKwph .media-container-row {
   justify-content: space-between;
@@ -1304,17 +1532,17 @@ a {
   }
 }
 .cid-sFAyMcKwph .mbr-section-title {
-  color: #353535;
+  color: #ffffff;
   text-align: right;
 }
 .cid-sFAyMcKwph P {
-  color: #000000;
+  color: #353535;
   text-align: right;
 }
 .cid-sFAyHxWQ1N {
   padding-top: 9rem;
   padding-bottom: 9rem;
-  background-color: #fafafa;
+  background-image: url("../../../assets/images/7-1080x607.jpg");
 }
 .cid-sFAyHxWQ1N .item {
   display: flex;
@@ -1336,6 +1564,7 @@ a {
   font-size: 32px;
   left: -15px;
   top: 12%;
+  top: 20%;
   color: #4479d9;
 }
 .cid-sFAyHxWQ1N .item.first:before {
@@ -1374,7 +1603,7 @@ a {
 .cid-uVOHL2ozLP {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/pngtree-yellow-barley-in-a-green-field-image-13015718-640x427.jpg");
 }
 .cid-uVOHL2ozLP .mbr-fallback-image.disabled {
   display: none;
@@ -1412,7 +1641,7 @@ a {
 .cid-sFzDs3t9EG {
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/pngtree-agricultural-field-where-green-barley-grows-image-15691166-720x404.jpg");
 }
 .cid-sFzDs3t9EG .mbr-overlay {
   background-color: #ffffff;
