@@ -1058,7 +1058,7 @@ a {
 .cid-sFzxmVl7J6 {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/2hd-wallpaper-green-spikelets-barley-field-crop-field-ears-2000x1249.jpg");
+  background-image: url("../../../assets/images/2hd-wallpaper-green-spikelets-barley-field-crop-field-ears-2000x1249.webp");
 }
 .cid-sFzxmVl7J6 .row {
   flex-direction: row-reverse;
@@ -1094,7 +1094,7 @@ a {
 .cid-sFzz5E692j {
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-image: url("../../../assets/images/background7.jpg");
+  background-image: url("../../../assets/images/background7.webp");
 }
 @media (max-width: 991px) {
   .cid-sFzz5E692j .image-wrapper {
@@ -1125,7 +1125,7 @@ a {
 .cid-sFzFvgBfc0 {
   padding-top: 6rem;
   padding-bottom: 4rem;
-  background-image: url("../../../assets/images/background3.jpg");
+  background-image: url("../../../assets/images/background3.webp");
 }
 .cid-sFzFvgBfc0 .mbr-overlay {
   background: #fafafa;
@@ -1180,7 +1180,7 @@ a {
 .cid-uYrD2h0BcC {
   padding-top: 2rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/background7.jpg");
+  background-image: url("../../../assets/images/background7.webp");
 }
 .cid-uYrD2h0BcC .mbr-fallback-image.disabled {
   display: none;
@@ -1216,165 +1216,146 @@ a {
 .cid-uYrD2h0BcC .mbr-text {
   text-align: right;
 }
-.cid-uYrHu7qGVQ {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background: #fafafa;
+.cid-v1oXsrzqZ8 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
-.cid-uYrHu7qGVQ .mbr-fallback-image.disabled {
-  display: none;
+.cid-v1oXsrzqZ8 .line {
+  background-color: #6592e6;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
 }
-.cid-uYrHu7qGVQ .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
+.cid-v1oVSswQj7 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
 }
-.cid-uYrHu7qGVQ .team-card {
-  margin-bottom: 2rem;
-  transition: all 0.3s;
-}
-.cid-uYrHu7qGVQ .team-card:hover {
-  transform: translateY(-10px);
-}
-.cid-uYrHu7qGVQ .card-wrap {
-  background: #ffffff;
-  border-radius: 4px;
-}
-@media (max-width: 991px) {
-  .cid-uYrHu7qGVQ .card-wrap {
-    margin-bottom: 2rem;
+@media (min-width: 992px) {
+  .cid-v1oVSswQj7 .carousel {
+    min-height: 400px;
+  }
+  .cid-v1oVSswQj7 .carousel img {
+    max-height: 400px;
+    object-fit: contain;
   }
 }
-.cid-uYrHu7qGVQ .card-wrap .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 768px) {
-  .cid-uYrHu7qGVQ .card-wrap .content-wrap {
-    padding: 2rem;
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-v1oVSswQj7 .carousel {
+    min-height: 260px;
+  }
+  .cid-v1oVSswQj7 .carousel img {
+    max-height: 260px;
+    object-fit: contain;
   }
 }
 @media (max-width: 767px) {
-  .cid-uYrHu7qGVQ .card-wrap .content-wrap {
-    padding: 1rem;
+  .cid-v1oVSswQj7 .carousel {
+    min-height: 220px;
+  }
+  .cid-v1oVSswQj7 .carousel img {
+    max-height: 220px;
+    object-fit: contain;
+  }
+  .cid-v1oVSswQj7 .container .carousel-control {
+    margin-bottom: 0;
+  }
+  .cid-v1oVSswQj7 .content-slider-wrap {
+    width: 100% !important;
   }
 }
-.cid-uYrHu7qGVQ .social-row {
-  text-align: center;
-}
-.cid-uYrHu7qGVQ .social-row .soc-item {
-  display: inline-block;
-  text-align: center;
-  border-radius: 50%;
-  margin-right: 0.6rem;
-  margin-bottom: 1rem;
-  padding: 0.5rem;
-  border: 2px solid #6592e6;
-  transition: all 0.3s;
-}
-.cid-uYrHu7qGVQ .social-row .soc-item .mbr-iconfont {
-  transition: all 0.3s;
+.cid-v1oVSswQj7 .carousel,
+.cid-v1oVSswQj7 .carousel-inner {
   display: flex;
-  justify-content: center;
-  align-content: center;
-  color: #6592e6;
-  font-size: 1.5rem;
+  align-items: center;
 }
-.cid-uYrHu7qGVQ .social-row .soc-item:hover {
-  background-color: #6592e6;
+.cid-v1oVSswQj7 .item-wrapper {
+  width: 100%;
 }
-.cid-uYrHu7qGVQ .social-row .soc-item:hover .mbr-iconfont {
-  color: #ffffff;
+.cid-v1oVSswQj7 .carousel-caption {
+  bottom: 40px;
 }
-.cid-uYrHu7qGVQ .embla__slide {
-  display: flex;
-  justify-content: center;
-  position: relative;
-  min-width: 410px;
-  max-width: 410px;
+.cid-v1oVSswQj7 .carousel-control:hover {
+  background: #1b1b1b;
+  color: #fff;
+  opacity: 1;
 }
-@media (max-width: 768px) {
-  .cid-uYrHu7qGVQ .embla__slide {
-    min-width: 70%;
-    max-width: initial;
-    margin-left: 1rem !important;
-    margin-right: 1rem !important;
-  }
+.cid-v1oVSswQj7 .mobi-mbri-arrow-next {
+  margin-left: 5px;
 }
-.cid-uYrHu7qGVQ .embla__button--next,
-.cid-uYrHu7qGVQ .embla__button--prev {
-  display: flex;
+.cid-v1oVSswQj7 .mobi-mbri-arrow-prev {
+  margin-right: 5px;
 }
-.cid-uYrHu7qGVQ .embla__button {
+.cid-v1oVSswQj7 .container .carousel-indicators {
+  margin-bottom: 3px;
+}
+.cid-v1oVSswQj7 .carousel-control {
   top: 50%;
   width: 60px;
   height: 60px;
   margin-top: -1.5rem;
   font-size: 22px;
   background-color: rgba(0, 0, 0, 0.5);
-  color: #fff;
   border: 2px solid #fff;
   border-radius: 50%;
   transition: all 0.3s;
-  position: absolute;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
-@media (max-width: 768px) {
-  .cid-uYrHu7qGVQ .embla__button {
-    display: none;
-  }
-}
-.cid-uYrHu7qGVQ .embla__button:disabled {
-  cursor: default;
-  display: none;
-}
-.cid-uYrHu7qGVQ .embla__button:hover {
-  background: #000;
-  color: rgba(255, 255, 255, 0.5);
-}
-.cid-uYrHu7qGVQ .embla__button.embla__button--prev {
+.cid-v1oVSswQj7 .carousel-control.carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-uYrHu7qGVQ .embla__button.embla__button--next {
+.cid-v1oVSswQj7 .carousel-control.carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
 @media (max-width: 767px) {
-  .cid-uYrHu7qGVQ .embla__button {
+  .cid-v1oVSswQj7 .carousel-control {
     top: auto;
+    bottom: 1rem;
   }
 }
-.cid-uYrHu7qGVQ .embla {
-  position: relative;
-  width: 100%;
+.cid-v1oVSswQj7 .carousel-indicators {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 1.5rem !important;
 }
-.cid-uYrHu7qGVQ .embla__viewport {
-  overflow: hidden;
-  width: 100%;
+.cid-v1oVSswQj7 .carousel-indicators li {
+  max-width: 15px;
+  height: 15px;
+  width: 15px;
+  max-height: 15px;
+  margin: 3px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 2px solid #fff;
+  border-radius: 50%;
+  opacity: 0.5;
+  transition: all 0.3s;
 }
-.cid-uYrHu7qGVQ .embla__viewport.is-draggable {
-  cursor: grab;
+.cid-v1oVSswQj7 .carousel-indicators li.active,
+.cid-v1oVSswQj7 .carousel-indicators li:hover {
+  opacity: 0.9;
 }
-.cid-uYrHu7qGVQ .embla__viewport.is-dragging {
-  cursor: grabbing;
+.cid-v1oVSswQj7 .carousel-indicators li::after,
+.cid-v1oVSswQj7 .carousel-indicators li::before {
+  content: none;
 }
-.cid-uYrHu7qGVQ .embla__container {
-  display: flex;
-  user-select: none;
-  -webkit-touch-callout: none;
-  -khtml-user-select: none;
-  -webkit-tap-highlight-color: transparent;
+.cid-v1oVSswQj7 .carousel-indicators.ie-fix {
+  left: 50%;
+  display: block;
+  width: 60%;
+  margin-left: -30%;
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .cid-v1oVSswQj7 .carousel-indicators {
+    display: none !important;
+  }
 }
 .cid-uYrMQxampT {
   padding-top: 0rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/background8.jpg");
+  background-image: url("../../../assets/images/background8.webp");
 }
 .cid-uYrMQxampT .mbr-fallback-image.disabled {
   display: none;
@@ -1488,6 +1469,156 @@ a {
 .cid-sFzErVWEaH .mbr-section-title1 {
   color: #000000;
 }
+.cid-v1oZV0gKG8 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background: #fafafa;
+}
+.cid-v1oZV0gKG8 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-v1oZV0gKG8 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-v1oZV0gKG8 .team-card {
+  margin-bottom: 2rem;
+  transition: all 0.3s;
+}
+.cid-v1oZV0gKG8 .team-card:hover {
+  transform: translateY(-10px);
+}
+.cid-v1oZV0gKG8 .card-wrap {
+  background: #ffffff;
+  border-radius: 4px;
+}
+@media (max-width: 991px) {
+  .cid-v1oZV0gKG8 .card-wrap {
+    margin-bottom: 2rem;
+  }
+}
+.cid-v1oZV0gKG8 .card-wrap .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .cid-v1oZV0gKG8 .card-wrap .content-wrap {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-v1oZV0gKG8 .card-wrap .content-wrap {
+    padding: 1rem;
+  }
+}
+.cid-v1oZV0gKG8 .social-row {
+  text-align: center;
+}
+.cid-v1oZV0gKG8 .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  margin-right: 0.6rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border: 2px solid #6592e6;
+  transition: all 0.3s;
+}
+.cid-v1oZV0gKG8 .social-row .soc-item .mbr-iconfont {
+  transition: all 0.3s;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  color: #6592e6;
+  font-size: 1.5rem;
+}
+.cid-v1oZV0gKG8 .social-row .soc-item:hover {
+  background-color: #6592e6;
+}
+.cid-v1oZV0gKG8 .social-row .soc-item:hover .mbr-iconfont {
+  color: #ffffff;
+}
+.cid-v1oZV0gKG8 .embla__slide {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  min-width: 410px;
+  max-width: 410px;
+}
+@media (max-width: 768px) {
+  .cid-v1oZV0gKG8 .embla__slide {
+    min-width: 70%;
+    max-width: initial;
+    margin-left: 1rem !important;
+    margin-right: 1rem !important;
+  }
+}
+.cid-v1oZV0gKG8 .embla__button--next,
+.cid-v1oZV0gKG8 .embla__button--prev {
+  display: flex;
+}
+.cid-v1oZV0gKG8 .embla__button {
+  top: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -1.5rem;
+  font-size: 22px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-v1oZV0gKG8 .embla__button:disabled {
+  cursor: default;
+  display: none;
+}
+.cid-v1oZV0gKG8 .embla__button:hover {
+  background: #000;
+  color: rgba(255, 255, 255, 0.5);
+}
+.cid-v1oZV0gKG8 .embla__button.embla__button--prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-v1oZV0gKG8 .embla__button.embla__button--next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+@media (max-width: 767px) {
+  .cid-v1oZV0gKG8 .embla__button {
+    top: auto;
+  }
+}
+.cid-v1oZV0gKG8 .embla {
+  position: relative;
+  width: 100%;
+}
+.cid-v1oZV0gKG8 .embla__viewport {
+  overflow: hidden;
+  width: 100%;
+}
+.cid-v1oZV0gKG8 .embla__viewport.is-draggable {
+  cursor: grab;
+}
+.cid-v1oZV0gKG8 .embla__viewport.is-dragging {
+  cursor: grabbing;
+}
+.cid-v1oZV0gKG8 .embla__container {
+  display: flex;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
 .cid-sFAyMcKwph {
   padding-top: 15px;
   padding-bottom: 45px;
@@ -1542,7 +1673,7 @@ a {
 .cid-sFAyHxWQ1N {
   padding-top: 9rem;
   padding-bottom: 9rem;
-  background-image: url("../../../assets/images/7-1080x607.jpg");
+  background-image: url("../../../assets/images/7-1080x607.webp");
 }
 .cid-sFAyHxWQ1N .item {
   display: flex;
@@ -1603,7 +1734,7 @@ a {
 .cid-uVOHL2ozLP {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/pngtree-yellow-barley-in-a-green-field-image-13015718-640x427.jpg");
+  background-image: url("../../../assets/images/pngtree-yellow-barley-in-a-green-field-image-13015718-640x427.webp");
 }
 .cid-uVOHL2ozLP .mbr-fallback-image.disabled {
   display: none;
@@ -1641,7 +1772,7 @@ a {
 .cid-sFzDs3t9EG {
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-image: url("../../../assets/images/pngtree-agricultural-field-where-green-barley-grows-image-15691166-720x404.jpg");
+  background-image: url("../../../assets/images/pngtree-agricultural-field-where-green-barley-grows-image-15691166-720x404.webp");
 }
 .cid-sFzDs3t9EG .mbr-overlay {
   background-color: #ffffff;
@@ -1668,7 +1799,7 @@ a {
 .cid-sFzIA7KGYz {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/barley-field-at-sunset-close-up-summer-light-970x646.jpg");
+  background-image: url("../../../assets/images/barley-field-at-sunset-close-up-summer-light-970x646.webp");
 }
 .cid-sFzIA7KGYz .image-wrapper {
   display: flex;
